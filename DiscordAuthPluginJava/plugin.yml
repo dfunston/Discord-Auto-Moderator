@@ -1,0 +1,7 @@
+name: DiscordAuth
+main: com.inebriatedstudios.DiscordAuth.main
+version: 1.0
+commands:
+  discord:
+    description: "Used to register Discord access"
+    usage: /discord
