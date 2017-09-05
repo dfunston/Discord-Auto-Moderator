@@ -1,0 +1,7 @@
+{
+"token": "Token",
+"host": "localhost",
+"sendPort": 1010,
+"listenPort": 1011,
+"guildID": "GuildIDNum"
+}
