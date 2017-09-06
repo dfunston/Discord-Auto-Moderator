@@ -4,7 +4,7 @@
   "description": "DiscordAutoMod",
   "main": "app.js",
   "author": {
-    "name": "eleif"
+    "name": "DanielFunston"
   },
   "dependencies": {
     "bad-words": "^1.5.1",
